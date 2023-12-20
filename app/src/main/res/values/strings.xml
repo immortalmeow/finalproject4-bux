@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Bux</string>
+    <string name="tujuan">Pilih Kota Tujuan</string>
+    <string name="asal">Pilih Kota Asal</string>
+    <string name="tanggal">Pilih tanggal</string>
+</resources>
